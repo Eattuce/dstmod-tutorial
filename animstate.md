@@ -11,7 +11,7 @@
 | 方法名                         | 类型                                     | 解释                                                   |
 |--------------------------------|------------------------------------------|--------------------------------------------------------|
 | OverrideShade                  | function                                 |                                                        |
-| SetFinalOffset                 | function                                 |                                                        |
+| SetFinalOffset                 | function                                 |当多个贴图重合时，决定当前动画最终优先级，数字越大越前   |
 | SetSymbolExchange              | function                                 |                                                        |
 | SetOrientation                 | function                                 |                                                        |
 | GetSortOrder                   | function                                 |                                                        |
